@@ -41,11 +41,11 @@ export default function AboutClient({ description }) {
           </p>
           <p className="md:my-3.75">
             Recently I&apos;ve been deploying agentic backends with{' '}
-            <strong>Google ADK</strong> and <strong>AgentSpace</strong>, cutting
-            GenAI deployment time by roughly <strong>30%</strong> on key
-            engagements. Earlier, as a <strong>Cloud Engineer</strong> in Pune, I
-            helped migrate <strong>100+ VMs</strong> from AWS to GCP with about{' '}
-            <strong>95% infrastructure cost savings</strong>.
+            <strong>Google ADK</strong> and <strong>AgentSpace</strong>,
+            significantly reducing GenAI deployment time through reusable
+            workflows. Earlier, as a <strong>Cloud Engineer</strong> in Pune, I
+            helped migrate <strong>100+ VMs</strong> from AWS to GCP and
+            achieved major cost optimization through that migration.
           </p>
           <p className="md:my-3.75">
             I&apos;m completing an <strong>MS in Business Analytics</strong> at
