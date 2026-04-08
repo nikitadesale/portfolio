@@ -59,14 +59,25 @@ const items = [
     endDate: '2026-05-01',
     location: 'Hayward, USA',
     roleType: 'Graduate Program',
-    technologies: ['Analytics', 'ML', 'Data Modeling', 'Experimentation'],
+    technologies: [
+      'SQL',
+      'Python',
+      'Data Modeling',
+      'Machine Learning',
+      'Data Warehousing',
+      'Business Intelligence',
+      'Optimization',
+      'Big Data'
+    ],
     highlights: [
       'Expected graduation: May 2026.',
-      'Focused on bridging analytics with product and business decisioning.'
+      'Focused on bridging analytics with product, strategy, and real-world decisioning.',
+      'Capstone-driven program with applied work in data, ML, and BI.'
     ],
     description: [
-      'Applied business analytics methods to practical product and operations scenarios.',
-      'Built stronger decision-making frameworks by combining data modeling with stakeholder context.'
+      'Coursework spans database management, data analytics, machine learning for business, data warehousing & BI, optimization methods, and big data technologies.',
+      'Built end-to-end analytics workflows: ingest → model → analyze → communicate insights with clear metrics and trade-offs.',
+      'Capstone-style approach: apply techniques to practical problems with stakeholder context and measurable outcomes.'
     ]
   }
 ];
