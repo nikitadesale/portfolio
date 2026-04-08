@@ -4,6 +4,7 @@ description:
   'What I focus on when shipping agentic backends: ADK-style patterns, guardrails, and cloud-native
   runtimes that survive real traffic.'
 image: /static/images/articles-bw.jpg
+skip: true
 date: '2026-04-01'
 ---
 

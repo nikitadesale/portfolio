@@ -34,7 +34,10 @@ export default async function Articles() {
       'googles-agent-developer-kit-multi-agent-orchestration',
       featuredParams
     ),
-    getPostBySlug('notes-on-production-ai-agents', featuredParams)
+    getPostBySlug(
+      'ai-weekend-wrong-answers-fix',
+      featuredParams
+    )
   ].filter(Boolean);
 
   const description = `Ideas and notes on <strong>AI agents, cloud, and MLOps</strong> — <strong>${allPosts.length} article${allPosts.length === 1 ? '' : 's'}</strong> so far.`;
